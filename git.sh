@@ -38,6 +38,11 @@ git checkout -b BRANCH_NAME
 
 
 
+# 브랜치 삭제
+git branch -d BRANCH_NAME
+
+
+
 # 수정 사항 확인
 git status
 
@@ -61,7 +66,7 @@ git add .
 
 
 # 수정 사항 커밋
-git commit -m "사용자 추가 기능 완료"
+git commit -m "COMMIT_MESSAGE"
 
 
 
