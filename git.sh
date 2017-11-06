@@ -4,7 +4,7 @@
 
 # < Local vs Remote >
 # Local: your computer.
-# Remote: Storage in cloud. ex) github
+# Remote: Storage in cloud. ex) github.com/vanilla-coding/ums
 
 
 
